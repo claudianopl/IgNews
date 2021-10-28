@@ -59,6 +59,7 @@ Além disso, para fazer todo o conteúdo do blog foi usado o JAMStack Primisc qu
 
 - [ReactJS](https://github.com/facebook/react)
 - [TypeScript](https://github.com/microsoft/TypeScript)
+- [Sass](https://sass-lang.com/)
 - [NextJS](https://nextjs.org/)
 - [next-auth](https://next-auth.js.org/)
 - [Axios](https://www.npmjs.com/package/axios)
@@ -106,7 +107,7 @@ Além disso, para fazer todo o conteúdo do blog foi usado o JAMStack Primisc qu
     $ stripe listen --forward-to localhost:3000/api/webhooks
 
     # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-    
+
 ```
 
 ## 📝 Licença
