@@ -35,7 +35,7 @@ O blog possui sistema de assinatura mensal integrado com a plataforma de pagamen
 </br></br>
 Junto a isso os dados necessários para verificar se o usuário está com a assinatura ativa é salva todos no FaunaDB, além disso, existe uma rota na API do projeto criado com NextJS é responsável por ouvir o WebHooks do Stripe e alterar os dados do usuário no FaunaDB de active para canceled.
 </br></br>
-Além disso, para fazer todo o conteúdo do blog foi usado o JAMStack Primisc que funciona como um excelente CMS para blog.
+Além disso, para fazer todo o conteúdo do blog foi usado o Primisc que funciona como um excelente CMS para blog.
 </p>
 
 ## 🎨 Layout
